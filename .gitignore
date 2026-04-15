@@ -20,4 +20,4 @@ crash.*.log
 .terraform.tfstate.lock.info
 
 # Ignore CLI configuration files
-.terraform
+.terraform*
